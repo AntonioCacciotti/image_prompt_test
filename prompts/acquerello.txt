@@ -1,0 +1,165 @@
+OUTPUT FORMAT — DECIDE THIS BEFORE ANYTHING ELSE
+The output is ALWAYS a VERTICAL image with a 3:4 aspect ratio, taller than wide,
+whatever the shape of the source photograph. If the photo is horizontal or
+square, recompose the same subjects into a vertical 3:4 sheet by extending the
+WHITE PAPER above and below them — never by extending the bodies. Never crop or
+cut the subjects to fit.
+Transform this portrait photo into a premium editorial watercolor illustration
+on pure white paper: a hand-painted gallery portrait, fully resolved at the
+faces and dissolving into free pigment at its edges.
+## SUBJECT FIDELITY — ABSOLUTELY CRITICAL
+Output EXACTLY the same number of subjects as the source photo, same poses, same
+relative positions. Never add people, children, partners or pets.
+Each person must stay immediately recognizable to someone who knows them:
+preserve head and face shape, eye shape and spacing, eyebrow shape, nose
+proportions, mouth width, cheekbones, jawline, chin, hairline, hairstyle, hair
+colour and length, glasses, facial hair, real skin tone, apparent age, weight,
+ethnicity and expression. Different subjects must clearly read as different
+individuals. Never harden, age, coarsen, thin or thicken a face; never make
+anyone look worse than in the photo. That structure is RENDERED IN PAINT, not
+copied: simplification is expected, distortion of the person is not.
+## WHAT SURVIVES FROM THE PHOTOGRAPH — ONE RULE
+Apply this test to every single thing in the source photo, one at a time:
+  KEEP it if a subject touches it — holds it, wears it, leans on it, sits on it,
+  or stands directly behind it.
+  DELETE it if nobody touches it, whatever it is.
+Nothing else survives: no place, no setting, no distance, no other people.
+SURFACES GO: floors, ground, tables, counters, walls. Kept objects rest on bare
+white paper, not on anything. The one exception is a seat a person is actually
+sitting on, which stays because the pose needs it.
+Kept objects are painted in the same position and the same size as in the photo,
+fully readable — lettering and logos included — in the same watercolor treatment
+as the figures. Never delete, shrink or move them.
+WHEN IN DOUBT whether something belongs to the people or to the place, KEEP IT.
+Losing a bottle, a pet, a bouquet or a cake that mattered to them is far worse
+than leaving one extra object on the paper.
+COLOUR: never carry a colour from the deleted surroundings into the painting.
+Green pigment only if a subject actually wears green.
+## FRAMING FIDELITY — ABSOLUTELY CRITICAL
+Paint exactly what the photograph shows of each body: all of it, and nothing
+more.
+WHAT THE PHOTO SHOWS IS PAINTED IN FULL: if legs, feet or hands are visible,
+they are all there and anatomically complete. Never crop, cut, amputate or
+truncate a limb the photograph shows.
+WHAT THE PHOTO DOES NOT SHOW DOES NOT EXIST: never invent, complete, extend or
+imagine any part of a body the photograph does not contain. If the photo is a
+head-and-shoulders crop, the painting is a head-and-shoulders crop. If it stops
+at the waist, the painting stops at the waist. NEVER add legs, feet, hips,
+hands, arms or a lower body that the photograph does not show, and never invent
+a chair, a seat or a surface to support an invented pose.
+WHERE THE PHOTOGRAPH CUTS A BODY, THE PAINT DISSOLVES: the washes loosen, break
+and fade into the white paper exactly at that point, so the figure ends in
+fading pigment rather than in a straight horizontal edge. Never end a figure
+with a hard cut line.
+## GRADIENT OF FINISH
+One continuous watercolor painting whose finish loosens from the faces downward.
+The zones are measured on the FIGURES' OWN HEIGHT, not on the image frame.
+ZONE 1 — HEADS AND FACES: clean flat washes with controlled modelling. Smooth
+and liquid, clearly defined, never scratchy — and never photographic.
+THE FACE MUST READ AS PAINT, NOT AS A PHOTOGRAPH — CRITICAL
+Three signals must all be present on every face:
+  1. PAPER HIGHLIGHTS — the brightest planes (forehead, bridge and tip of the
+     nose, top of the cheekbone, chin) are BARE UNPAINTED PAPER with visible
+     irregular edges, not smoothly lit skin.
+  2. VISIBLE WASH BOUNDARIES — in two or three places on each face, a clear edge
+     where one wash stopped and the next began: along the jaw, at the temple, at
+     the hairline, where the face meets the neck.
+  3. SIMPLIFIED LIGHT — many subtle values in the photograph become three or
+     four decided ones. No continuous photographic gradient across a face, no
+     airbrushed skin, no rendered pores.
+VALUES: three or four steps on the skin, no more — bare white paper for the
+lights, one clean even wash of the true skin tone for the mid, one or two shapes
+of a deeper tone for the shadows.
+LOST AND FOUND EDGES: shadow edges are CRISP where they follow real structure
+(jawline, side of the nose, hairline, eye socket) and SOFT where they cross the
+skin itself (a cheek, the forehead). At least half the shadow edges must be
+crisp and visible as paint.
+FEATURES ARE DRAWN, NOT MODELLED: eyes, eyelids, eyebrows, nostrils, the line
+between the lips and the corners of the mouth are stated with a few small, dark,
+decisive marks, crisp as a fine brush placed once. Eyes stay bright and clean,
+with white paper as their highlight. Faces read sharp from a distance and stay
+fully recognizable even when the subjects are small in the frame.
+HAIR: two or three large FLAT masses of value with clean, sharp, slightly ragged
+edges — light, mid, dark — smooth inside, no texture, no dry brush. On top of
+them no more than eight to twelve individual strokes in total for an entire head
+of hair. Never individual strands, never fine hatching.
+ZONE 2 — TORSOS, ARMS AND CLOTHING: progressively looser. Edges soften and
+break. Garments become confident single-stroke washes with visible brush
+direction. Some contours are left open, letting white paper into the figure.
+ZONE 3 — THE LAST 10-15% OF THE FIGURES' HEIGHT: silhouette edges break into
+wet-on-wet blooms, granulation and backruns. The dissolution happens at the CONTOUR
+of the body, not across it: anatomy stays readable and complete. Shoes and feet
+stay recognizable.
+## LINEWORK
+A few fine dark lines in a warm brown-black, only where the drawing needs
+structure: the contour of a hand and the separations between fingers, the edge
+of a jaw against a shadow, the crease of an eyelid, where a sleeve meets an arm.
+Thin, tapering and BROKEN — each appears for a short stretch and disappears.
+Never a continuous outline around a figure, never an ink-drawn or comic look.
+Fewer lines than feels necessary.
+## THE SURROUNDING PAINT — ONE FAINT CONTINUOUS WASH
+The figures sit inside a soft halo of watercolour. It is DENSEST where it meets
+their bodies — against a shoulder, along a flank, behind an arm, in the gap
+between two people — and FADES OUTWARD until it disappears, so the paint has no
+outer boundary, only a dissolution into white paper.
+VERY DILUTE — THE STRENGTH OF THE WASH, AND THE MOST IMPORTANT RULE HERE: this
+is a faint tint, not a field of colour. At its strongest point it is NO DARKER
+than the palest shade of skin in the picture, and over most of its area it is
+barely more than a breath of colour on white paper. The portrait must read as
+people on a white sheet with a quiet trace of colour around them — never as
+people standing in front of a coloured background.
+BUILD IT AS ONE CONTINUOUS WASH, NOT AS SEPARATE MARKS: a single unbroken mass
+of colour surrounding the group, solid where it touches the bodies and breaking
+up only at its outer edge. Its overall shape is irregular, its edges are wet and
+blooming, and here and there a visible boundary shows where one pour of colour
+met another — the mark of paint that was laid, not sprayed. It is never a smooth
+airbrushed gradient and never a field of separate spots.
+A light scatter of spatter dots at the outer fringes. THE LOWER EDGE BEHAVES
+EXACTLY LIKE THE SIDES: it frays, blooms and fades into the white paper in the
+same way, with no drips, no runs and no pigment travelling down toward the
+bottom of the sheet.
+IT BEHAVES LIKE REAL WATERCOLOUR AT ITS OUTER EDGE: the outer rim bleeds and
+melts into the paper, its colour thinning into the white rather than stopping at
+a defined line, so the halo dissolves the way a wet wash dries on damp paper.
+The halo surrounds the group on both sides and below, rising behind the
+shoulders to about ear height. It is irregular: wider on one side than on the
+other, thick in one place and absent a hand's width away.
+COLOURS — SOFT AND WARM, TAKEN FROM THE PEOPLE: the wash uses only TWO tints,
+plus the bare paper. Take the dominant WARM tone and the dominant COOL tone from
+the subjects themselves — their skin, hair and clothing — and soften them well
+below the saturation they have in the photograph, keeping A CLEAR TRACE of the
+original hue.
+THE TINT IS UNMISTAKABLY A COLOUR, ONLY A VERY LIGHT ONE — not a grey with a
+hint of temperature. A viewer should see a pale warm colour, not a warm-ish
+grey. Keep it light and keep it soft, but keep it a colour.
+THE WARM TINT DOMINATES: about three quarters of the wash is the warm one — a
+soft sunlit greige, like light on paper — and the cool grey appears only in the
+minority, as relief. Never a flat cold grey, never the two in equal measure: the
+halo should feel like warm light, not like dust.
+No fully saturated colour anywhere in it: nothing that reads as a bright pink,
+yellow or blue. The halo accompanies the portrait; it never introduces a colour
+that is not already quietly present in the people.
+IT NEVER COMPETES WITH THE PEOPLE — THE RULE THAT OUTRANKS THE REST OF THIS
+BLOCK: the faces are what the eye goes to first, always. If any part of the wash
+is strong enough to be noticed before the people, it is too dark or too
+saturated.
+THE WASH GOES AROUND OBJECTS, NEVER OVER THEM: where a bottle, a bucket or any
+other object stands, the paint stops at its edge and continues on the other
+side. Objects sit IN FRONT of the surrounding paint.
+FACES STAY CLEAR: no wash touches or crosses a face or the hair on a head. Keep
+clean white paper immediately around each face, about half a head's width.
+Behind and between the shoulders the paint may come close.
+Coverage: minimal and restrained — the halo touches only about A QUARTER of the
+white area, and bare paper is by far the dominant surface around the figures.
+Its weight sits near the bodies and thins to nothing toward the margins. The top
+of the sheet, above the heads, stays almost entirely bare paper.
+## PAPER AND FINISH
+Pure bright white cold-press watercolor paper, its tooth visible only where
+pigment sits. Premium, restrained, gallery wall-art: the emotional weight lives
+in the faces, the energy in the paint that wraps them. Editorial illustration
+quality, not cartoon, not photographic, not digital-airbrush.
+## REMINDER
+Vertical 3:4. The figures fill the sheet — about three quarters of its width and
+most of its height, never small in the middle of an empty page. Generous white
+paper above the heads, a faint warm halo of colour around them that fades
+outward. Keep every object the subjects hold or stand behind.

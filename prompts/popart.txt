@@ -1,0 +1,58 @@
+OUTPUT FORMAT — DECIDE THIS BEFORE ANYTHING ELSE
+The output is ALWAYS a VERTICAL 3:4 image, taller than wide, whatever the shape of the source photograph. If the source is horizontal or square, recompose into a vertical 3:4 sheet by EXTENDING THE BACKGROUND above and below. Never output a horizontal or square image.
+
+Transform this portrait photo into a bold POP ART portrait: flat, hard-edged facets of fully saturated colour on a single plain colour field, every figure outlined with a fine black contour line. Vector-clean, luminous, no texture, no grain.
+
+## FRAMING — THE CROP OF THE SOURCE IS LAW
+Reproduce EXACTLY the same crop of the body as the photograph. If the photo shows the subjects from the chest or waist up, the output shows them from the chest or waist up, cut by the bottom edge of the sheet exactly as in the photo.
+NEVER invent, complete or extend any part of a body the photograph does not show: no legs, no feet, no hips, no torso below the original cut, no hands that were outside the frame. A figure ending at the bottom edge is CORRECT, not a mistake to fix.
+Within that crop, enlarge the subjects to fill about four fifths of the width and most of the height. Extend the FIELD to reach 3:4 — never the people.
+
+## SUBJECT FIDELITY — ABSOLUTELY CRITICAL
+Output EXACTLY the same number of subjects as the source, same poses, same relative positions. Never add people, children, partners or pets.
+Each person must stay immediately recognizable to someone who knows them: preserve head and face shape, eye shape and spacing, eyebrows, nose proportions, mouth width, cheekbones, jawline, chin, hairline, hairstyle and length, glasses, facial hair, apparent age, weight, ethnicity, expression, and every asymmetry. Do not enlarge eyes, sharpen jaws, plump lips, slim faces or rejuvenate anyone, and never produce attractive generic faces. Different subjects must read as clearly different individuals.
+
+## THE TECHNIQUE — POSTERIZED FACETS
+Faces are not painted in skin tones. The light on each face is reduced to SIX OR SEVEN steps, each reprinted in a different saturated colour as a clean hard-edged shape.
+
+THE GOLDEN RULE — RELATIVE BRIGHTNESS IS SACRED: each colour sits at the same relative lightness as the value it replaces. Never a light colour where the photo has shadow, never a dark colour where the photo has light. Squint at the result: the light-and-dark pattern must still match the photograph exactly. This is what keeps the likeness.
+
+THE HUE TRAVELS, THE VALUE DOES NOT — THIS IS THE STYLE. Across the steps the hue moves a long way around the colour wheel while lightness stays locked to the photo. One face carries warm AND cool colour:
+  - brightest planes (forehead, nose bridge and tip, top of cheekbone, chin): near-white cream, pale lemon
+  - lights: warm yellow, amber
+  - mid tones: orange, coral, hot magenta
+  - shadows: crimson, deep magenta, violet, indigo
+  - darkest accents: a blue-violet so deep it reads as black
+COOL COLOUR BELONGS ON THE SKIN, not only in the garments: at least a third of every face is cool — magenta, violet, blue, teal — placed in the mid tones and shadows. A face painted only in yellows and oranges is WRONG: it reads as a vector portrait, not as pop art. Adjacent facets must JUMP IN HUE, not merely darken.
+
+FULL RANGE: every image has a TRUE DARKEST NOTE (deep blue-violet, in hair, a garment or the deepest facet of a face) and a TRUE LIGHTEST NOTE (near-white cream on the brightest planes). Values all sitting mid-range read muddy, however saturated.
+
+## SHAPES — FACETS, NOT SOFT BANDS
+Cut each face into ANGULAR, STRAIGHT-EDGED PLANES: polygonal shards with clean corners, like cut paper or stained glass, meeting at visible angles. Six to eight facets per face, large and confident — fewer and bigger beats many and small. No soft airbrushed banding. The facets follow real anatomy — the plane of a cheek, the side of the nose, the hollow under an eye: never random stripes, never a rainbow gradient, never a filter.
+Every colour area is perfectly flat and fully opaque: no gradients, no blending, no texture, no grain, no halftone dots, no noise. Where two facets meet, one colour stops and the next begins with nothing in between — two pieces of cut paper laid edge to edge.
+
+FEATURES ARE DRAWN, NOT MODELLED: eyelid creases and lash line, nostrils, the line between the lips and its corners are stated with precise dark marks — sharp and legible. Eyes stay bright and alive with a clear white highlight. Lips are two or three flat shapes.
+
+HAIR: FIVE OR SIX large flat shapes following the real shape, length, parting and volume, coloured as a saturated mass — deep violet, indigo, magenta or emerald according to how dark the real hair is, never natural brown or blonde. On top, up to ten hard-edged separations grouping the hair into locks: flat shapes, never drawn lines, never single strands. Curly hair is built from separated flat curl shapes.
+
+GARMENTS: each garment is TWO OR THREE FLAT SHAPES — one lit, one shadow, at most one more. No folds, no wrinkles, no fabric texture, no seams. RECOLOUR EVERY GARMENT with a fully saturated colour: a navy or black shirt becomes electric blue, violet or emerald with a lighter facet on the lit side. Never leave a garment near-black or desaturated — it deadens the picture. Poses, gestures and the cut of the clothing are preserved exactly. Hands and arms are faceted like the faces, anatomy correct, fingers separated.
+
+## LINEWORK
+Draw with a deep black. Every line is HAIRLINE THIN — as fine as a hair, whatever the size of the faces in the frame — and its weight VARIES along its length, heavier where a form turns from the light or where shapes overlap, thinning to nothing on the lit side. A line of even thickness anywhere is wrong: that is what makes a picture read as a cartoon.
+A fine dark contour runs along the outer silhouette of each figure, delicate, not a keyline. It BREAKS in several places, vanishing along the brightest lit edges and returning in the shadowed ones — never a continuous ring. At least two thirds of every silhouette carries it. When subjects are small in the frame the contour is drawn proportionally HEAVIER so it stays equally visible.
+INSIDE THE FACE, only these: eyelid creases and lash line, nostrils and base of the nose, the line between the lips and its corners, the inner edge of the ear, the shadow under the lower lip. Short, decisive, tapering. ELSEWHERE: between fingers, the edge of a collar, where one person overlaps another.
+THE FACETS ARE NEVER OUTLINED: their edges are colour meeting colour.
+
+## THE FIELD — ONE FLAT COLOUR BEHIND THE PEOPLE
+Delete the entire background of the source — trees, sky, walls, furniture, rooms, scenery and all its colours — and replace it with a SINGLE FLAT FIELD of one saturated colour filling the sheet. Nothing on it: no rays, no dots, no bursts, no shapes, no patterns, no texture, no lettering. It shows generously beside the shoulders and above the heads; all four corners are field.
+CHOOSE THE FIELD COLOUR FROM THIS PHOTOGRAPH. Look at the largest garment colours in the source photo and read off the field colour from this table:
+  - warm, cream, beige, brown or orange clothing → HOT MAGENTA
+  - blue or denim clothing → LEMON YELLOW
+  - red or pink clothing → BRIGHT CYAN
+  - green or teal clothing → VIVID CORAL
+  - black, grey or white clothing → ELECTRIC VIOLET
+If two of these apply, follow the one that covers the larger area of the picture. One field colour only, never two.
+Never a deep or dark colour: the people are separated from it by their own contour line, not by a dark background. The field is always BEHIND — it never crosses in front of a person and never tints them.
+
+## FINISH
+Smooth flat vector colour, crisp and luminous, gallery-ready. No print texture, no halftone, no paper grain, no brush marks, no noise, no drop shadows, no 3D. Bold and joyful but adult — a collectable art print, never merchandise, never a children's poster.
