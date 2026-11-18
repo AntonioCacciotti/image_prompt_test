@@ -1,4 +1,4 @@
-import { imageModels } from "@/lib/models";
+import { imageModels, openrouterModels } from "@/lib/models";
 import { promptPresets } from "@/lib/presets";
 import { Chat } from "./Chat";
 
@@ -9,8 +9,8 @@ export default function Page() {
   return (
     <main className="page">
       <h1>Text to image test</h1>
-      <p className="lede">Write a prompt, send it to OpenAI, then view and download the image.</p>
-      <Chat models={imageModels()} presets={promptPresets()} />
+      <p className="lede">Write a prompt, send it to OpenAI or OpenRouter, then view and download the image.</p>
+      <Chat models={imageModels()} openrouterModels={openrouterModels()} presets={promptPresets()} />
     </main>
   );
 }

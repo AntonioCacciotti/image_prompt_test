@@ -15,10 +15,20 @@ type Turn = {
 
 const QUALITIES = ["low", "medium", "high", "auto"];
 
-export function Chat({ models, presets }: { models: string[]; presets: Preset[] }) {
+export function Chat({
+  models,
+  openrouterModels,
+  presets,
+}: {
+  models: string[];
+  openrouterModels: string[];
+  presets: Preset[];
+}) {
   const [turns, setTurns] = useState<Turn[]>([]);
   const [prompt, setPrompt] = useState("");
+  // Exactly one of the two model dropdowns holds a value; the other is "".
   const [model, setModel] = useState(models[0]);
+  const [orModel, setOrModel] = useState("");
   const [quality, setQuality] = useState("low");
   const [file, setFile] = useState<File | null>(null);
   const fileInput = useRef<HTMLInputElement>(null);
@@ -46,7 +56,12 @@ export function Chat({ models, presets }: { models: string[]; presets: Preset[] 
 
     const form = new FormData();
     form.append("prompt", text);
-    form.append("model", model);
+    if (orModel) {
+      form.append("provider", "openrouter");
+      form.append("model", orModel);
+    } else {
+      form.append("model", model);
+    }
     form.append("quality", quality);
     if (upload) form.append("image", upload);
 
@@ -102,9 +117,35 @@ export function Chat({ models, presets }: { models: string[]; presets: Preset[] 
       <form className="composer" onSubmit={send}>
         <div className="options">
           <label>
-            Model
-            <select value={model} onChange={(e) => setModel(e.target.value)}>
+            GPT model
+            <select
+              value={model}
+              onChange={(e) => {
+                setModel(e.target.value);
+                if (e.target.value) setOrModel("");
+                else if (!orModel) setOrModel(openrouterModels[0] ?? "");
+              }}
+            >
+              <option value="">— none —</option>
               {models.map((m) => (
+                <option key={m} value={m}>
+                  {m}
+                </option>
+              ))}
+            </select>
+          </label>
+          <label>
+            OpenRouter model
+            <select
+              value={orModel}
+              onChange={(e) => {
+                setOrModel(e.target.value);
+                if (e.target.value) setModel("");
+                else if (!model) setModel(models[0] ?? "");
+              }}
+            >
+              <option value="">— none —</option>
+              {openrouterModels.map((m) => (
                 <option key={m} value={m}>
                   {m}
                 </option>
